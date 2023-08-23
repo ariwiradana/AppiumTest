@@ -38,8 +38,7 @@ appium
 ```
 ## 9. Buka AndroidManifest.xml
 buka folder android > app > src > main > AndroidManifest.xml
->**Note**: di tag "manifest" pastikan ada package="com.namaapp" kalo disini contohnya "com.appiumtest"
->**Note**: itu dipakai di file test.js bagian const capabilities yang app:appPackage
+>**Note**: di tag "manifest" pastikan ada package="com.namaapp" kalo disini contohnya "com.appiumtest", itu dipakai di file test.js bagian const capabilities yang app:appPackage
 ## 10. Buka test.js di folder appium
 di folder appium > test.js
 >**Note**: disitu kan ada driver.$(selectorById('firstName')) itu berti nge get id yg di file react native dengan id "firstName" (di file App.jsx), kalo di file react native nya di set di testID="firstName"
