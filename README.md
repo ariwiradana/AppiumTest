@@ -38,7 +38,7 @@ appium
 ```
 ## 9. Buka AndroidManifest.xml
 buka folder android > app > src > main > AndroidManifest.xml
->**Note**: di tag <manifest> pastikan ada package="com.namaapp" kalo disini contohnya "com.appiumtest"
+>**Note**: di tag "manifest" pastikan ada package="com.namaapp" kalo disini contohnya "com.appiumtest"
 >**Note**: itu dipakai di file test.js bagian const capabilities yang app:appPackage
 ## 10. Buka test.js di folder appium
 di folder appium > test.js
