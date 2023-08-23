@@ -47,4 +47,4 @@ di terminal directory appium
 ```bash
 node test.js
 ```
->**Note**: pastikan emulatornya udh kebukak. Kalo udh auto dia ngetik2 dan klik button berti berhasil
+>**Note**: pastikan emulatornya udh kebukak. Kalo udh auto dia ngetik2 dan klik button berti berhasil😍😍😍😍😍
