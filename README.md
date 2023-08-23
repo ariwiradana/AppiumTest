@@ -15,7 +15,7 @@ Command buat install uiautomator
 appium driver install uiautomator2
 ```
 ## 4. Install package project react native
-Install package2 nya, caranya
+Pastikan terminalnya udh di directory AppiumTest, Install package2 nya, caranya
 ```bash
 yarn install
 ```
