@@ -41,7 +41,7 @@ buka folder android > app > src > main > AndroidManifest.xml
 >**Note**: di tag "manifest" pastikan ada package="com.namaapp" kalo disini contohnya "com.appiumtest", itu dipakai di file test.js bagian const capabilities yang app:appPackage
 ## 10. Buka test.js di folder appium
 di folder appium > test.js
->**Note**: disitu kan ada driver.$(selectorById('firstName')) itu berti nge get id yg di file react native dengan id "firstName" (di file App.jsx), kalo di file react native nya di set di testID="firstName"
+>**Note**: kenapa tak jadiin satu folder appium buat ngetest nya biar jadi satu masuk ke git aja sih, boleh kok diluar folder project nya ini km buat kodingan2 ngetest nya. Disitu kan ada driver.$(selectorById('firstName')) itu berti nge get id yg di file react native dengan id "firstName" (di file App.jsx), kalo di file react native nya di set di testID="firstName"
 ## 11. Run automation test
 di terminal directory appium
 ```bash
